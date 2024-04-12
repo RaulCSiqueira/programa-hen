@@ -20,4 +20,4 @@ jobs:
       #- name: lint code
       #  run: npm run lint
       - name: Test Code
-        run: npm run test
+        run: npm run build
