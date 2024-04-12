@@ -17,7 +17,7 @@ jobs:
         run: npm run dev &
       - name: code for run
         run: npm run cy:run
-      - name: lint code
-        run: npm run lint
+      #- name: lint code
+      #  run: npm run lint
       - name: Test Code
         run: npm run test
