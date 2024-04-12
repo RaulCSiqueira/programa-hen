@@ -19,5 +19,5 @@ jobs:
         run: npm run cy:run
       #- name: lint code
       #  run: npm run lint
-      - name: Test Code
+      - name: build Code
         run: npm run build
